@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋,eu sou Izaias Leão</h1>
 <h3 align="center">Apaixonado por dados, automações e IA, busco inovações constantemente, principalmente no mundo digital. Transformar complexidade em eficiência é minha paixão</h3>
 
-- 🔭 Atualmente estou trabalhando em projetos de governo, atuando ativamente em implementação de melhoria de processos, automação e power bi **BI com Relatório de Gestão de Mudança**
+- 🔭 Atualmente estou trabalhando em projetos de governo, atuando ativamente em implementação de melhoria de processos, automação e Power **BI com Relatório de Gestão de Mudança**
 
 - 🌱 Atualmente estou aprendendo **Power Bi, Python e SQL**
 
