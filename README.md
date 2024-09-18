@@ -11,9 +11,9 @@
 
 - 📫 Você me acha no seguinte e-mail **izaias.o.leao@gmail.com**
 
-- 📄 Portifólio de Projetos: https://sites.google.com/view/portifliobi-izaiasoleao
+- 📄 **Portifólio de Projetos:** https://sites.google.com/view/portifliobi-izaiasoleao
 
-- 📄 Saiba mais sobre minhas experiências acessando [https://www.linkedin.com/in/izaias-leao-itil4mp-gsti-bi-governan%C3%A7a-dados/](https://www.linkedin.com/in/izaias-leao-itil4mp-gsti-bi-governan%C3%A7a-dados/)
+- 📄 Saiba mais sobre minhas experiências acessando: [https://www.linkedin.com/in/izaias-leao-itil4mp-gsti-bi-governan%C3%A7a-dados/](https://www.linkedin.com/in/izaias-leao-itil4mp-gsti-bi-governan%C3%A7a-dados/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
