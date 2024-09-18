@@ -7,7 +7,7 @@
 
 - 👯 Estou trabalhando nos seguintes projetos Governança e Qualidade em Projetos de Governo **MGI, MPO, MF, MDIC, MEMP e MPI, MDHC, MIR e MMULHERES.**
 
-- 💬 Me pergunte sobre **Power Bi e Excel**
+- 💬 Me pergunte sobre **Power Bi, Excel e SQL**
 
 - 📫 Você me acha no seguinte e-mail **izaias.o.leao@gmail.com**
 
